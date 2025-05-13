@@ -1,0 +1,6 @@
+in order for the code to run you need to have the database in the same structure as i and fo that u need to 
+
+1-create a database named "product_catalogue" (dont put the " " in the name )
+2-insert final_hotels_seasonal_price_serie.csv using the  insert_hoteltinto_php.py python script ( dont forget to specify the file path be4 running the script )
+3-insert  final_catalogue_all_products_v1_temp_serie.csv using the  insertfileintophp.py python script ( dont forget to specify the file path be4 running the script )
+important note : make sure to have Mysql running in the background 
